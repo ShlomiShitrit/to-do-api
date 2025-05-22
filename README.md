@@ -1,6 +1,6 @@
-# ✅ to-so-api
+# ✅ to-do-api
 
-**to-so-api** is a clean and modular task management API built with **ASP.NET Core**. It supports full **JWT-based authentication**, user registration, and categorized task tracking with categories and subcategories.
+**to-do-api** is a clean and modular task management API built with **ASP.NET Core**. It supports full **JWT-based authentication**, user registration, and categorized task tracking with categories and subcategories.
 
 ---
 
